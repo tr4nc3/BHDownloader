@@ -1,0 +1,11 @@
+selenium
+requests
+BeautifulSoup
+selenium-wire
+webdriver-manager
+tenacity
+httpx
+tqdm
+fake-useragent
+bs4
+urllib3
